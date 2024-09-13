@@ -1,0 +1,11 @@
+.geofencing-module {
+  width: 100%;
+  height: 400px;
+  background-color: #f0f0f0;
+}
+
+#location-info {
+  padding: 20px;
+  font-size: 18px;
+  color: #333;
+}

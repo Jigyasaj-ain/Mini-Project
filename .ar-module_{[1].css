@@ -1,0 +1,15 @@
+.ar-module {
+  width: 100%;
+  height: 500px;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#ar-model {
+  width: 300px;
+  height: 300px;
+  background: #e0e0e0;
+  border-radius: 10px;
+}
